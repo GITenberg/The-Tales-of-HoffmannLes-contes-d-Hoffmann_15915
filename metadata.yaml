@@ -1,0 +1,41 @@
+_repo: The-Tales-of-HoffmannLes-contes-d-Hoffmann_15915
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Offenbach, Jacques
+    aliases:
+    - Eberst, Jakob
+    - Offenbach, Jacob
+    - Offenbach, J. (Jacques)
+    - Offenbach, Jaques
+    - Levy, Jacques
+    birthdate: 1819
+    deathdate: 1880
+    gutenberg_agent_id: '6374'
+    url: http://www.gutenberg.org/2009/agents/6374
+    wikipedia: http://en.wikipedia.org/wiki/Jacques_Offenbach
+description: ''
+gutenberg_bookshelf:
+- FR Théâtre
+- Opera
+gutenberg_issued: '2005-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15915'
+language:
+- en
+- fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Operas -- Librettos'
+- !lcsh 'Hoffmann, E. T. A. (Ernst Theodor Amadeus), 1776-1822 -- Drama'
+- !lcc 'ML'
+title: 'The Tales of Hoffmann
+
+  Les contes d''Hoffmann'
+url: http://www.gutenberg.org/ebooks/15915
