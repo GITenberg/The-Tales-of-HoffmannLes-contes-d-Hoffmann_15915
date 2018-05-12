@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6374
     wikipedia: http://en.wikipedia.org/wiki/Jacques_Offenbach
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15915#The-Tales-of-HoffmannLes-contes-d-Hoffmann
 gutenberg_bookshelf:
 - FR Théâtre
 - Opera
